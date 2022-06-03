@@ -336,7 +336,7 @@ PODS:
     - glog
   - react-native-maps (0.30.2):
     - React-Core
-  - react-native-netinfo (8.3.0):
+  - react-native-netinfo (8.3.1):
     - React-Core
   - react-native-onesignal (4.3.10):
     - OneSignalXCFramework (= 3.11.1)
@@ -347,7 +347,7 @@ PODS:
     - React-Core
   - react-native-spinkit (1.4.1):
     - React
-  - react-native-webview (11.18.2):
+  - react-native-webview (11.21.1):
     - React-Core
   - React-perflogger (0.68.0)
   - React-RCTActionSheet (0.68.0):
@@ -452,7 +452,7 @@ PODS:
   - RNScreens (3.13.1):
     - React-Core
     - React-RCTImage
-  - RNShare (7.4.1):
+  - RNShare (7.5.0):
     - React-Core
   - RNVectorIcons (9.1.0):
     - React-Core
@@ -724,12 +724,12 @@ SPEC CHECKSUMS:
   React-jsinspector: 90f0bfd5d04e0b066c29216a110ffb9a6c34f23f
   React-logger: 8474fefa09d05f573a13c044cb0dfd751d4e52e3
   react-native-maps: df7b9fca1b1c8d356fadbf5b8a63a5f8cf32fc73
-  react-native-netinfo: 3671b091c4843fda5e153612866ef4024b8f5d62
+  react-native-netinfo: 1a6035d3b9780221d407c277ebfb5722ace00658
   react-native-onesignal: ebe25c107bc2d04aa1db040b1b5dee56f4df4436
   react-native-restart: 45c8dca02491980f2958595333cbccd6877cb57e
   react-native-safe-area-context: 9e40fb181dac02619414ba1294d6c2a807056ab9
   react-native-spinkit: da294fd828216ad211fe36a5c14c1e09f09e62db
-  react-native-webview: 8ec7ddf9eb4ddcd92b32cee7907efec19a9ec7cb
+  react-native-webview: e6125da6d1cb245ff0692f545b0e5eb3572e12ab
   React-perflogger: 15cb741d6c2379f4d3fc8f9e4d4e1110ef3020cb
   React-RCTActionSheet: ea9099db0597bd769430db1e2d011fd5fdb7fc5e
   React-RCTAnimation: 252df4749866f2654f37612f839522cac91c1165
@@ -747,7 +747,7 @@ SPEC CHECKSUMS:
   RNGestureHandler: 61628a2c859172551aa2100d3e73d1e57878392f
   RNReanimated: 64573e25e078ae6bec03b891586d50b9ec284393
   RNScreens: 40a2cb40a02a609938137a1e0acfbf8fc9eebf19
-  RNShare: 2074af48908436c310847c6c47ebb6129db1dc89
+  RNShare: 2e8e9dadea058057642a9351ca2878867ad4ad5c
   RNVectorIcons: 7923e585eaeb139b9f4531d25a125a1500162a0b
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
   SDWebImageWebPCoder: f93010f3f6c031e2f8fb3081ca4ee6966c539815
